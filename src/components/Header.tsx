@@ -12,10 +12,10 @@ const Header = () => {
     };
 
     return (
-        <header className="bg-pink-100 border-b border-black/20 inset-x-0 top-0 z-10 py-4">
+        <header className="bg-pink-200 border-b border-black/20 inset-x-0 top-0 z-10 py-4">
             <nav className="flex items-center justify-evenly py-1" aria-label="Main navigation">
                 <div className="flex flex-row justify-between items-center gap-2">
-                    <Link to="/" className="-m-1.5 p-1.5">
+                    <Link to="/home" className="-m-1.5 p-1.5">
                         <div className="w-10 h-10 rounded-lg bg-pink-500 flex items-center px-2">
                             <Sparkles className="w-6 h-6 text-white" />
                         </div>
@@ -26,8 +26,9 @@ const Header = () => {
                 </div>
 
                 <ul className="hidden md:flex w-5/7 justify-evenly">
-                    <li><Link to="/" className="text-lg font-semibold text-black">Início</Link></li>
+                    <li><Link to="/home" className="text-lg font-semibold text-black">Início</Link></li>
                     <li><Link to="/members" className="text-lg font-semibold text-black">Integrantes</Link></li>
+                    <li><Link to="/about" className="text-lg font-semibold text-black">Sobre</Link></li>
                     <li><Link to="/faq" className="text-lg font-semibold text-black">FAQ</Link></li>
                     <li><Link to="/contact" className="text-lg font-semibold text-black">Contato</Link></li>
                     <li><Link to="/solution" className="text-lg font-semibold text-black">Solução</Link></li>
