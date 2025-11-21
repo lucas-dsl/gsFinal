@@ -50,7 +50,7 @@ const Header = () => {
                 >
                     <li><Link to="/" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>Início</Link></li>
                     <li><Link to="/members" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>Integrantes</Link></li>
-                    <li><Link to="/sobre" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>Sobre</Link></li>
+                    <li><Link to="/about" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>Sobre</Link></li>
                     <li><Link to="/faq" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>FAQ</Link></li>
                     <li><Link to="/contact" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>Contato</Link></li>
                     <li><Link to="/solution" className="text-lg font-semibold text-black" role="menuitem" onClick={handleLinkClick}>Solução</Link></li>
