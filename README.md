@@ -80,13 +80,13 @@ Você tem um painel de crm totalmente intuitivo onde você só precisa colocar a
 
 # 🖼️ Imagem com local para registrar o cliente
 
-![Demonstração – API 1](src/assets/imgs/image.png)
+![Demonstração](src/assets/imgs/imageCRM.png)
 
 # 🖼️ Imagem com local para ver clientes registrados
 
-![Demonstração – API 2](src/assets/img/image2.png)
+![Demonstração](src/assets/imgs/imageHistorico.png)
 
 
 ## 📦 Repositório  
 - git clone https://github.com/Entregas2025/gs-final.git
-- video explicativo do youtube https://youtu.be/EMYdYMjLM50?si=vWZh7IKy_FsVUtlY
+- video explicativo do youtube: 
