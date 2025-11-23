@@ -3,13 +3,13 @@
 --- 
 
 ## Sumário
-┣ Objetivo do Projeto
-┣ Estrutura de pastas
-┣ Tecnologias Utilizadas
-┣ Como Usar
-┣ Integrantes
-┣ Imagens
-┣ Link para o video e para o repositório
+1- Objetivo do Projeto
+2- Estrutura de pastas
+3- Tecnologias Utilizadas
+4- Como Usar
+5- Integrantes
+6- Imagens
+7- Link para o video e para o repositório
 
 ---
 
